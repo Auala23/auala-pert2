@@ -10,6 +10,10 @@ image:
   preview_only: false
   caption: ""
 ---
+![](5-alasan-jurusan-manajemen-informatika-bagus-untuk-masa-depan.jpg)
+
+
+
 Pada awalnya saya membuat pilihan antara kuliah jurusan Pendidikan Bahasa Inggris atau kuliah jurusan IT.
 
 Lalu saat pendaftaran di beberapa kampus, saya telah mencoba mendaftar pada satu kampus dan mendaftar di Akakom. Ternyata pada kampus yang saya daftar untuk jurusan Bahasa Inggris tidak diterima dan di Akakom saya diterima dan diterima juga saat mendaftar beasiswa yayasan maka saya memutuska masuk di Akakom dengan jurusan Manajemen Informatika.
